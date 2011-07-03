@@ -23,10 +23,12 @@ requires:
   App::Cmd: 0.311
   File::Copy: 2.14
   File::Share: 0.01
+  Mouse: 0.93
+  Template::Toolkit::Simple: 0.13
   YAML::XS: 0.35
   perl: 5.8.3
 resources:
   homepage: http://github.com/ingydotnet/test-common-pm/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ingydotnet/test-common-pm.git
-version: 0.02
+version: 0.03
