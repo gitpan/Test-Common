@@ -33,4 +33,4 @@ resources:
   homepage: http://github.com/ingydotnet/test-common-pm/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ingydotnet/test-common-pm.git
-version: 0.06
+version: 0.07
